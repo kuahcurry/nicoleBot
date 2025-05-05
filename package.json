@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "asyncio": "^0.0.2",
+    "discord": "^0.8.2",
+    "random": "^5.1.1",
+    "requests": "^0.3.0",
+    "run": "^1.5.0"
+  },
+  "author": "KuahCurry @kuahcurri",
+  "license": "MIT"
+}

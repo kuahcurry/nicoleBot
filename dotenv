@@ -1,0 +1,6 @@
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Loads .env file
+
+firebase_credentials_json = os.getenv('GOOGLE_APPLICATION_CREDENTIALS_JSON')
