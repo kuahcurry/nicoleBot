@@ -1,0 +1,28 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+
+# IDEs and editors (you can adjust this based on what you use)
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Firebase or other service keys
+firebase-credentials.json
+
+# Other
+*.env
