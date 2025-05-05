@@ -67,7 +67,7 @@ async def get_prefix_command(ctx):
 
 async def main():
     await load_extensions()
-    await bot.start('MTMyNDMzNzg4MzMyNjMyMDc1MQ.GsrGIp.u4JTqJ8QLy9pqYY__HiTGo4xLXJ7nf4x8frjsg')
+    await bot.start('YOUR_DISCORD_BOT_TOKEN')
 
 @bot.event
 async def on_voice_state_update(member, before, after):
